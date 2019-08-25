@@ -71,8 +71,11 @@ He received his Bachelor in Computer Science from Sriwijaya University in 2015.
 
 Career History:
 
-- Programmer at PT. Koperasi Telekomunikasi Selular (Palembang, 2013)
-- Supervisor Area Marketing at PT. HM Sampoerna Tbk (Makassar, 2016)
-- Software Engineer at ABB (Bali, 2017-2018)
-- Fullstack Engineer at Ocean Freight Exchange (Singapore, 2018-2019)
 - Fullstack Engineer at Finaccel (Kredivo) (Jakarta, 2019 - Current)
+- Fullstack Engineer at Ocean Freight Exchange (Singapore, 2018-2019)
+- Software Engineer at ABB (Bali, 2017-2018)
+- Supervisor Area Marketing at PT. HM Sampoerna Tbk (Makassar, 2016)
+- Programmer at PT. Koperasi Telekomunikasi Selular (Palembang, 2013)
+
+
+
