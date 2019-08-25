@@ -70,7 +70,7 @@ user_groups:
 <!--- Biography --->
 
 Faisal Morensya's interest was Natural Language Processing and Information Retrieval at AIRLab.
-He conducted a student exchange program with https://airlab-unsri.github.io/authors/ariefrahmansyah/ to Kasetsart University, Thailand to complete his thesis on Multi Threading for String Matching and received his Bachelor in Computer Science from Sriwijaya University in 2015.
+He conducted a student exchange program with [Arief] (https://airlab-unsri.github.io/authors/ariefrahmansyah/) to Kasetsart University, Thailand to complete his thesis on Multi Threading for String Matching and received his Bachelor in Computer Science from Sriwijaya University in 2015.
 
 He previously was qualified as Machine Learning Engineer for Kata.ai before He got hired as Software Engineer in PT. Bank Negara Indonesia.
 
