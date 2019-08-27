@@ -68,7 +68,7 @@ user_groups:
 
 Agus Mistiawan was researching Natural Language Processing at AIRLab.
 
-He was involved in several Software Development projets belong to UNSRI and government.
+He was involved in several Software Development projets belong to Sriwijaya University and Government.
 
 He received his Bachelor in Computer Science from Sriwijaya University in 2017.
 
