@@ -45,7 +45,6 @@ Career History:
 
 - Vice President R&D at PT. Bahasa Kinerja Utama (Jakarta, 2019 - current)
 - Senior Developer at PT. Bahasa Kinerja Utama (GCI) (Jakarta, 2017 -2019)
-- Senior Developer at PT Aksivitama (GCI) (Jakarta, 2017 -2019)
 - Software Engineer at PT Bahasa Kinerja Utama (Jakarta, 2015 - 2017)
 - Junior Developer at PT Bahasa Identitas Nusantara (Jakarta, 2014 - 2015)
 
