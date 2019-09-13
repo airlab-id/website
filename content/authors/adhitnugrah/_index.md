@@ -71,6 +71,6 @@ Adhityah Anugrah was researching Image Processing and Game Development at AIRLab
 
 He received his Bachelor in Computer Science from Sriwijaya University in 2016.
 
-After graduated, He join Telkomsel Palembang as Web Programmer (Outsourcing) over one year.
+After graduated, he join Telkomsel Palembang as Web Programmer (outsource) over one year.
 
 He is currently working in BPJS Ketenagakerjaan, Jakarta as Web Programmer.
