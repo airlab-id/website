@@ -7,7 +7,7 @@ title: Revan Muhammad Dafa
 
 # Username (this should match the folder name)
 authors:
-- Revanmuhammad
+- revanmuhammad
 
 # Role/position
 role: Student
