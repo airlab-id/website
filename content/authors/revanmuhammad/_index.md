@@ -23,7 +23,7 @@ bio: Student in Sriwijaya University
 interests:
 - Machine Learning
 - Software Engineering
-- Web Developer
+- Web Development
 
 education:
   courses:
