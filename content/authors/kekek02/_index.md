@@ -3,7 +3,7 @@
 name: Inneke Puspitasari
 
 # To be displayed on the document's title that it shown in browser's title bar
-title: Prayogi Notonegoro
+title: Inneke Puspitasari
 
 # Username (this should match the folder name)
 authors:
@@ -39,13 +39,13 @@ education
 social:
 # - icon: envelope
 #   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#   link: '#contact'  # For a direct email link, use "mailto:"innekepuspitasari17@gmail.com".
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: envelope
   icon_pack: fas
-  link:
+  link:innekepuspitasari17@gmail.com
 - icon: github
   icon_pack: fab
   link: https://github.com/kekek02
