@@ -21,9 +21,9 @@ organizations:
 bio: Machine Learning Engineer
 
 interests:
-- Distributed Computing
-- Machine Learning
+- Machine Learning Engineering
 - Software Engineering
+- Distributed Computing
 
 education:
   courses:
