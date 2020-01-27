@@ -75,14 +75,14 @@ social:
 
 1. Melaksanakan kegiatan **pendidikan**, **penelitian**, dan **pengabdian** kepada masyarakat.
 1. Memotivasi anggota AIRLab supaya: **lulus tepat waktu**, **melanjutkan studi ke jenjang yang lebih tinggi**, dan **cepat mendapatkan pekerjaan**.
-1. Membangun **Jejaring Alumni AIRLab** yang solid, kekeluargaan, intelektual dan spiritual, serta penduli pada Nusa, Bangsa, dan Agama.
+1. Membangun **Jejaring Alumni AIRLab** yang solid, kekeluargaan, intelektual dan spiritual, serta peduli pada Nusa, Bangsa, dan Agama.
 
 ## Misi
 
 1. Melakukan kegiatan pendidikan seperti: pengajaran, pelatihan, dan konseling.
 1. Melakukan kegiatan penelitian seperti: meninjau tren riset terkini, membuat dan mempublikasikan artikel ilmiah, ikut kegiatan atau perlombaan ilmiah.
-1. Melakukan pengabdian seperti: ikut terlibat dalam kegiatan pengabdian masyarakat.
-1. Menjadi jembatan komunikasi antara anggota AIRLab dengan alumni AIRLab.
+1. Melakukan kegiatan pengabdian kepada masyarakat.
 1. Membuat rencana studi, dan persiapan studi lanjut (sertifikat bahasa Inggris + proposal penelitian).
-1. Melibatkan alumni AIRLab untuk berperan baik aktif maupun pasif dalam memotivasi anggota AIRlab.
+1. Menjadi jembatan komunikasi antara anggota AIRLab dengan alumni AIRLab.
 1. Membuat kerja sama penelitian ataupun kegiatan antara anggota dan alumni AIRLab.
+1. Melibatkan alumni AIRLab untuk berperan baik aktif maupun pasif dalam memotivasi anggota AIRlab.
