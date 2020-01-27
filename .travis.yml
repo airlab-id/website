@@ -8,7 +8,7 @@ script:
 deploy:
   provider: pages
   github_token: $GITHUB_TOKEN # Set in the settings page of your repository, as a secure variable
-  keep_history: true
+  keep_history: false
   skip_cleanup: true
   local_dir: ./public
   repo: airlab-unsri/airlab-unsri.github.io
