@@ -23,15 +23,15 @@ bio: CS Student
 interests:
 - Artificial Intelligence
 - Software Engineering
-- data processing
+- Data Processing
 - Product Management
 
-education
- courses:
+education:
+  courses:
   - course: Bachelor in Computer Science
     institution: Sriwijaya University
     year: 2017 - now
-
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
