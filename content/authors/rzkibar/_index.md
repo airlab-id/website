@@ -44,7 +44,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: envelope
   icon_pack: fas
-  link: mailto: muhammadakbarrizki99@gmail.com
+  link: mailto:muhammadakbarrizki99@gmail.com
 - icon: github
   icon_pack: fab
   link: https://github.com/rzkibar
