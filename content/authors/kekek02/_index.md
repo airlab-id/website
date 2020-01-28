@@ -45,13 +45,13 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: envelope
   icon_pack: fas
-  link:innekepuspitasari17@gmail.com
+  link: mailto:innekepuspitasari17@gmail.com
 - icon: github
   icon_pack: fab
   link: https://github.com/kekek02
 - icon: linkedin
   icon_pack: fab
-  link:www.linkedin.com/in/inneke-puspitasari
+  link: https://www.linkedin.com/in/inneke-puspitasari
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
 
