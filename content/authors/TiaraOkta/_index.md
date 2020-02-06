@@ -23,7 +23,7 @@ bio: CS Student
 interests:
 - NLP
 - Data Mining
-- Machine learning 
+- Machine Learning 
 
 education:
   courses:
