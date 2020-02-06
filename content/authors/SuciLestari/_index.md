@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Suci lestari
+name: Suci Lestari
 
 # To be displayed on the document's title that it shown in browser's title bar
-title: Suci lestari
+title: Suci Lestari
 
 # Username (this should match the folder name)
 authors:
-- Sucilestari
+- SuciLestari
 
 # Role/position
 role: Student
